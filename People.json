@@ -1,0 +1,66 @@
+{
+  "info": {
+    "seed": "362a13ac81f83544",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  },
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Eira",
+        "last": "Hammer"
+      },
+      "location": {
+        "street": {
+          "number": 6802,
+          "name": "Erlends vei"
+        },
+        "city": "Lensbygda",
+        "state": "Sør-Trøndelag",
+        "country": "Norway",
+        "postcode": "3158",
+        "coordinates": {
+          "latitude": "39.1371",
+          "longitude": "64.2969"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "eira.hammer@example.com",
+      "login": {
+        "uuid": "3409a27b-ae3f-4dfd-b212-3cacef4ba0fc",
+        "username": "blueelephant782",
+        "password": "bathing",
+        "salt": "5n820YSk",
+        "md5": "608bdb28422ec653bdd224400c3e8daf",
+        "sha1": "00fc9658c3c18f4c445c59cd27481c76d8369c77",
+        "sha256": "7fbb34d14c506fef7855f7d41b6eebfced661837f7b8282617e5ce7779e05b6a"
+      },
+      "dob": {
+        "date": "1982-05-07T07:54:09.442Z",
+        "age": 40
+      },
+      "registered": {
+        "date": "2017-08-28T11:17:01.844Z",
+        "age": 4
+      },
+      "phone": "82660974",
+      "cell": "49938769",
+      "id": {
+        "name": "FN",
+        "value": "07058221214"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/89.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+      },
+      "nat": "NO"
+    }
+  ]
+}
